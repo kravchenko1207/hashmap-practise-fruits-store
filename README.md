@@ -13,7 +13,7 @@
 
 ### 📌 Приклад використання:
 
-
+```java
 Map<String, Integer> fruits = new HashMap<>();
 fruits.put("apple", 10);
 fruits.put("banana", 5);
@@ -27,7 +27,7 @@ banana: 10
 orange: 12
 🔁 Щоб зберегти порядок додавання елементів — використовуйте LinkedHashMap.
 
-### 📁 Структура проєкту
+📁 Структура проєкту
 
 src/
 └── solution/
@@ -41,9 +41,6 @@ src/
 
 javac solution/*.java
 java solution.Main
-
-### 👩‍💻 Автор
-
+👩‍💻 Автор
 Iryna Kravchenko
-
 🔗 GitHub: kravchenko1207
